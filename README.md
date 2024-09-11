@@ -3,8 +3,9 @@
 
 
 ## 🌐 Socials:
-Linkedin: Duc Duy (Paul) Pham
-Email: paul_pham@sfu.ca or ducduy0308@gmail.com
+Linkedin: Duc Duy (Paul) Pham  
+https://www.linkedin.com/in/ddpham/
+Email: paul_pham@sfu.ca or ducduy0308@gmail.com  
 Discord: paulpham_1406
 
 # 💻 Tech Stack:
