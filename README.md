@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a third-year Computer Science Major at Simon Fraser University (SFU)<br>👯 I’m looking to an internship / CO-OP<br>💬 Ask me about anything! You can reach my email at paul_pham@sfu.ca<br>⚡ Fun fact: I'm a big F1 and Football (Soccer) fan, I also enjoy reading tech documentaion while walking.
+🔭 I’m a third-year Computer Science Major at Simon Fraser University (SFU)<br>👯 I’m looking to an internship / CO-OP<br>💬 Ask me about anything! You can reach my email at paul_pham@sfu.ca<br>⚡ Fun fact: I'm a big F1 and Football (Soccer) fan, I also enjoy reading tech documentaion while walking and in the gym.
 
 
 ## 🌐 Socials:
